@@ -1,0 +1,10 @@
+scikit-learn
+streamlit
+numpy
+Pillow
+pandas
+matplotlib
+seaborn
+scipy
+autogluon
+quickda
